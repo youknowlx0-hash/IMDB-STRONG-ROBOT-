@@ -1,7 +1,7 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-TMDB_API_KEY = os.getenv("TMDB_API_KEY", "")
+BOT_TOKEN = os.getenv("8990984656:AAHQoDujHrKtEDGuR5wRJRRsfXv5V5eI36Y", "")
+TMDB_API_KEY = os.getenv("", "")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
 
 CHANNELS = [
