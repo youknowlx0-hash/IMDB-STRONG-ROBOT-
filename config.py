@@ -1,7 +1,7 @@
 # IMPORTANT: keep secrets in Railway Variables, not in GitHub.
 import os
 
-BOT_TOKEN = os.getenv("8990984656:AAHQoDujHrKtEDGuR5wRJRRsfXv5V5eI36Y", "")
+BOT_TOKEN = os.getenv("", "")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY", "")
 
 ADMIN_ID = int(os.getenv("7702942505", "0"))
