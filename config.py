@@ -10,7 +10,7 @@ CHANNELS = [
     if x.strip()
 ]
 
-WEB_LINK = os.getenv("https://t.me/+vRmZOpfrrYFjOGU1", "")
+WEB_LINK = os.getenv("https://www.instagram.com/pvtluckylx?", "")
 
 START_SEARCH = int(os.getenv("START_SEARCH", "3"))
 REF_BONUS = int(os.getenv("REF_BONUS", "3"))
